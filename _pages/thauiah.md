@@ -10,8 +10,8 @@ header:
   #   - label: "<i class='fa fa-book'></i> 讀文獻"
   #     url: "/bunhian/"
 excerpt: >
-  <small>請chhi̍h mĕ-niú頂面chhiāu-chhōe ê功能 🔍，<br/>
-  來hō͘ Google chhōe網路頂面白話字文獻館ê資料。<br/>
+  <small>請chhi̍h網站頂面 🔍 來chhiāu-chhōe，<br/>
+  會請Google鬥chhōe網路頂面白話字文獻館ê資料。<br/>
   Chit ê網站單單提供ke-si hō͘民眾ùi Google chhōe其他網站。<br/>
   Nā想beh了解白話字文獻，推薦先讀[《探索台語白話字的故事》](https://www.govbooks.com.tw/books/111852)。<br/>
   Nā需要看「台灣教會公報」全文、原圖，請看[中研院網站](https://minhakka.ling.sinica.edu.tw/bkg/ke-si/khoann-chheh.php)。

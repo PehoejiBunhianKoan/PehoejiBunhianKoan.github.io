@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "Chhōe白話字文獻館",
+  "short_name": "Chhōe白話字文獻館",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
